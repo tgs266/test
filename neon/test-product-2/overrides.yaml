@@ -1,2 +1,2 @@
 # add config overrides here
-clusterIP: 10.96.33.33
+clusterIP: 10.96.33.33 
